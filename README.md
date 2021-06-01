@@ -1,1 +1,1 @@
-# aws-jenkins-test-app
+# eb-app-1
